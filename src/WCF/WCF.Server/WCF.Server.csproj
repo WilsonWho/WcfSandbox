@@ -52,7 +52,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WCF.Contracts\WCF.Common.csproj">
+    <ProjectReference Include="..\WCF.Common\WCF.Common.csproj">
       <Project>{C52710C1-B06D-4F04-AE1E-4653A839897D}</Project>
       <Name>WCF.Common</Name>
     </ProjectReference>
